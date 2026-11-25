@@ -1,0 +1,2 @@
+# Data-science-project
+In this project, I started by importing the right Data science library like pandas, searborn etc. Then i loaded a dataset, got the descriptive Analysis. I equally performed a correlation analysis between two columns, Age and CGPA.  I plotted correlation plot of the results then proceeded to use Pearsonr to get the p_values to test the significance
